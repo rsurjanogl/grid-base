@@ -1,0 +1,1 @@
+{"version":3,"file":"grid.js","sourceRoot":"","sources":["file:///C:/Globant/PROJECTS/GearLaunch/git/grid-base/src/grid.ts"],"names":[],"mappings":";;;;;;AAAA,yBAAuB,YAAY,CAAC,CAAA;AAEpC;IAAmB,wBAAQ;IAA3B;QAAmB,8BAAQ;IAE3B,CAAC;IAAD,WAAC;AAAD,CAAC,AAFD,CAAmB,mBAAQ,GAE1B","sourcesContent":["import {GridCore} from './gridCore';\r\n\r\nclass Grid extends GridCore {\r\n\r\n}\r\n"]}

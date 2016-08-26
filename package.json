@@ -1,0 +1,21 @@
+{
+  "name": "grid-base",
+  "version": "1.0.0",
+  "description": "README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc -p tsconfig.json -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsurjanogl/grid-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsurjanogl/grid-base/issues"
+  },
+  "homepage": "https://github.com/rsurjanogl/grid-base#readme"
+}
